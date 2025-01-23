@@ -7,6 +7,8 @@
     <meta name="description" content="A government initiative for easy online birth registration.">
     <meta name="author" content="Your Government">
     <meta property="og:title" content="Online Birth Registration">
+    <link rel="icon" type="image/png" href="{{ asset('favicon.png') }}">
+
     <meta property="og:description" content="A government initiative for easy online birth registration.">
     <meta property="og:image" content="path_to_image.jpg">
     <meta property="og:url" content="http://yourwebsite.com">
